@@ -1,0 +1,50 @@
+config.py
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+*.out
+*.err
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch and YOLO outputs
+runs/
+outputs/
+
+# Datasets
+datasets/
+
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Anaconda environment
+*.conda
+*.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Python packaging
+*.egg-info/
+dist/
+build/
